@@ -5,7 +5,7 @@ Simple front-end design for ecommerce website implemented in HTML, CSS & Bootstr
 Visit link to preview :- https://madhu5572.github.io/lifestyle-ecommerce/
 
 
-Web Technologies used: HTML, CSS, JS, Bootstrap
+Web Technologies used: HTML, CSS, Bootstrap
 
 Note: Bot is deployed on contact page
 
