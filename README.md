@@ -2,7 +2,7 @@
 Simple front-end design for ecommerce website implemented in HTML, CSS & Bootstrap.
 
 
-Visit link to preview :- https://tarandeep97.github.io/Lifestyle-Ecommerce-Website/
+Visit link to preview :- https://white-mushroom-0bf4ff210.azurestaticapps.net
 
 ### Screenshots:
 ![screenshot 100](https://user-images.githubusercontent.com/28994081/47411649-15bc0300-d787-11e8-81fc-55d51d1c2b32.png)
